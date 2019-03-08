@@ -399,5 +399,16 @@ var rseFeatures = [
         "geometry": {
             "type": "Point", "coordinates": [12.37476, 51.34067]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Florian Thiery",
+            "popupContent": "<img src='https://avatars0.githubusercontent.com/u/8138051?s=460&v=4'>Florian Thiery, Römisch-Germanisches Zentralmuseum - Leibniz-Forschungsinstitut für Archäologie (RGZM), Kompetenzbereich Wissenschaftliche IT, @fthierygeo<br><br>Research Software Engineer & Geodesist with passion for Linked Open Data.</em>"
+        },
+	    "geometry": {
+		    "type": "Point",
+		    "coordinates": [8.280242, 49.993944]
+	    }
     }
 ];
